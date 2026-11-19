@@ -1,0 +1,8 @@
+# JetBrains IDE
+.idea/
+
+# Default ignored files
+/shelf/
+httpRequests/
+dataSources/
+dataSources.local.xml
